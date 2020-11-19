@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    font-family: "Source Sans Pro";
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    background-color: #FFFAFA;
+  }
+  
+header {
+    background-color: #FFFAFA;
+    border-bottom: solid 2px #e2003a;
+    padding-bottom: 15px;
+  }
+  
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    width: 100%;
+    margin: auto;
+  }
+  
+header img {
+    width: 150px;
+    margin-left: 50px;
+    padding: 15px 0;
+  }
