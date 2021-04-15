@@ -1,3 +1,5 @@
+Este projeto é uma cópia inicial do meu TCC que foi originalmente escrito em Node (MVC com EJS). Fiz este repositório para treinar React, só tem os componentes mas logo virão outros projetos React para o Github;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
